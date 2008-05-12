@@ -1,0 +1,20 @@
+#summary Eyetracking techniques research papers
+#labels Phase-Bibliography
+
+= Introduction =
+
+We present below the main research papers for a better understanding of the current research in visible eyetracking.
+
+= Details =
+
+== Overall results ==
+
+== Current approaches ==
+
+=== 2D/3D head modelling ===
+
+=== Noise filtering ===
+  * Eyes movement Kalman filtering
+  * Gaze filtering using Neural Networks
+
+== Current examples of implementation ==
