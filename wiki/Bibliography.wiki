@@ -1,20 +1,17 @@
-#summary Eyetracking techniques research papers
+#summary Eyetracking techniques main research papers
 #labels Phase-Bibliography
 
 = Introduction =
 
 We present below the main research papers for a better understanding of the current research in visible eyetracking.
 
-= Details =
+= Research groups & Conferences =
+  * [www.e-t-r-a.org/ ETRA] : Eye Tracking Research & Applications.
+  * [http://www.cogain.org/ COGAIN] : Communication by Gaze Interaction IST Network of Excellence
+  * [http://www.siggraph.org/ SIGGRAPH] : Special Interest Group on Graphics and Interactive Techniques
+  * [http://www.sigchi.org/ SIGCHI] : Special Interest Group on Computer-Human Interaction
+  * [http://www.cs.uta.fi/research/hci/gaze/links.php Links from University of Tampere]
+  * 
 
-== Overall results ==
 
-== Current approaches ==
-
-=== 2D/3D head modelling ===
-
-=== Noise filtering ===
-  * Eyes movement Kalman filtering
-  * Gaze filtering using Neural Networks
-
-== Current examples of implementation ==
+== Patents covering eyetracking ==
