@@ -1,27 +1,31 @@
 #summary Eyetracking techniques main research papers
 #labels Phase-Bibliography
 
-= Introduction =
-
-We present below the main research papers for a better understanding of the current research in visible eyetracking.
-
 = Companies involved in eyetracking-related research =
 [Google]
 [Microsoft]
 
-== Hardware manufacturers ==
-
-== 
-
 = Research groups & Conferences =
   * [www.e-t-r-a.org/ ETRA] : Eye Tracking Research & Applications.
-  * [http://www.cogain.org/ COGAIN] : Communication by Gaze Interaction IST Network of Excellence
+=== Human Computer Interaction ===
+=== Accessibility ===
+europe US
+
+=== Signal processing ===
+  * [http://www.fg2008.nl/ FG] : Automatic Face and Gesture recognition
   * [http://www.siggraph.org/ SIGGRAPH] : Special Interest Group on Graphics and Interactive Techniques
+
+=== TV and Games ===
+=== Music ===
+
+
+  * [http://www.cogain.org/ COGAIN] : Communication by Gaze Interaction IST Network of Excellence
   * [http://www.sigaccess.org/ SIGACCESS] : Special Interest Group on Accessible Computing
   * [http://www.sigchi.org/ SIGCHI] : Special Interest Group on Computer-Human Interaction
   * [http://www.cs.uta.fi/research/hci/gaze/links.php Links from University of Tampere]
   * [http://www.nime.org/ NIME] : New Interfaces for Musical Expression
   * [http://www.ihci-conf.org/ IHCI] : Interfaces and Human Computer Interaction
+
 
 
 == Patents covering eyetracking ==
