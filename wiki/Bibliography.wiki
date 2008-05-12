@@ -1,8 +1,6 @@
 #summary Eyetracking techniques main research papers
 #labels Phase-Bibliography
 
-= Big players involved in eyetracking-related research & use =
-
 = Research groups & Conferences =
   * [www.e-t-r-a.org/ ETRA] : Eye Tracking Research & Applications.
 === Human Computer Interaction ===
